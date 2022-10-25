@@ -1,5 +1,6 @@
 #Exercício React
-<h1 align="center">:file_cabinet: Exercício de React</h1>
+<h1 align="center">:file_cabinet: Ignite Feed</h1>
+
 
 ## :memo: Descrição
 Exercício de React. Trilha Atualizada Ignite
@@ -9,7 +10,7 @@ Exercício de React. Trilha Atualizada Ignite
 
 ## :wrench: Tecnologias utilizadas
 * React;
-* TypeScript;
+* Vite;
 
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:

@@ -41,6 +41,12 @@
   line-height: 1.6;
 }
 
+.profile span {
+  font-size: 0.875rem;
+  color: var(--gray-400);
+  line-height: 1.6;
+}
+
 .sidebar footer {
   border-top:  1px solid var(--gray-600);
   margin-top: 1.5rem;
@@ -64,4 +70,17 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  
+  gap: 0.5rem;
+
+  transition: color 0.2s, background-color 0.2s;
+  -webkit-transition: color 0.2s, background-color 0.2s;
+  -moz-transition: color 0.2s, background-color 0.2s;
+  -ms-transition: color 0.2s, background-color 0.2s;
+  -o-transition: color 0.2s, background-color 0.2s;
+}
+
+.sidebar footer a:hover {
+  background: var(--green-500);
+  color: var(--white);
 }
