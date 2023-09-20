@@ -1,8 +1,8 @@
 #Exercício React
 <h1 align="center">:file_cabinet: Ignite Feed</h1>
 
-<img align="left" title="Card NLW" src="https://github.com/ur4sh1/Ignite-Feed/blob/main/public/2022-10-25.png" />
-<img align="right" title="Card NLW" src="https://github.com/ur4sh1/Ignite-Feed/blob/main/public/2022-10-27-mobile.png" />
+<img align="left" title="Ignite Feed" src="https://github.com/ur4sh1/Ignite-Feed/blob/main/public/2022-10-25.png" />
+<img align="right" title="Ignite Feed" src="https://github.com/ur4sh1/Ignite-Feed/blob/main/public/2022-10-27-mobile.png" />
 
 ## :memo: Descrição
 Exercício de React. Trilha Atualizada Ignite
@@ -25,6 +25,12 @@ npm i
 Executar
 ```
 npm run dev
+```
+
+## :rocket: Historico de comandos
+Biblioteca de manipulação de datas
+```
+npm i date-fns
 ```
 
 ## :dart: Status do projeto
