@@ -34,4 +34,4 @@ npm i date-fns
 ```
 
 ## :dart: Status do projeto
-WIP -  Work In Progress
+Finish
